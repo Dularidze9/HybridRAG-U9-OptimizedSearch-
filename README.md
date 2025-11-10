@@ -1,4 +1,4 @@
-#  RAG System with Hybrid Retrieval and Reranking - 
+#  HybridSearch-RAG-U9-improved-retrieval-
 
 Traditional RAG pipelines often struggle to retrieve the most relevant document pieces because splitting large documents into smaller chunks can disconnect important context from the broader content. This can lead to less accurate or incomplete answers.
 
